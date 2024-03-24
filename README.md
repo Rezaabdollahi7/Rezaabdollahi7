@@ -21,7 +21,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🍩 Fun fact: I love Mechanical Keyboards!
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,cpp,git,gulp,jquery,sass,tailwind,github,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,bootstrap,cpp,git,gulp,jquery,sass,tailwind,github,notion)](https://skillicons.dev)
 
 ### :fire: My Stats :
 
